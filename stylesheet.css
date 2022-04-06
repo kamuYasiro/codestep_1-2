@@ -106,6 +106,7 @@ main h2{
   display:block;
   text-align:center;
   margin:0 auto;
+  width:max-content;
 }
 .contact  dl input,.contact dl textarea{
   border:1px solid gray;
